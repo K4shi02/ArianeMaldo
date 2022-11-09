@@ -1,0 +1,21 @@
+body { 
+	background-image: url("skins/bgf_1.png");
+	background-color: beige;
+
+	font-family:"Arial"; 
+	overflow-x:hidden; 
+}
+
+h1{
+	color: black;
+	font-weight:900;
+	font-size: 60px;
+	padding: 250px;
+}
+
+h3{
+	font-size: 50px;
+	font-weight:1000;
+	font-style: italic;
+	color: black;
+}

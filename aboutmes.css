@@ -1,0 +1,254 @@
+body{
+    background: url(orange.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bold {
+  width: 537px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  font-family: Inter;
+  font-weight: bold;
+  font-size: 80px;
+  opacity: 1;
+  text-align: left;
+}
+.me {
+  width: 514px;
+  color: rgba(128,128,128,1);
+  position: absolute;
+  top: 100px;
+  left: 31px;
+  font-family: Inter;
+  font-weight: bold;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.para {
+  width: 244px;
+  height: 227px;
+  background: url("../images/v1_8.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 209px;
+  left: 31px;
+  overflow: hidden;
+}
+.graph {
+  width: 246px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 175px;
+  left: 304px;
+  font-family: Inter;
+  font-weight: bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.web {
+    width: 246px;
+    color: rgb(8, 8, 8);
+    position: absolute;
+    top: 5px;
+    left: 304px;
+    font-family: Inter;
+    font-weight: bold;
+    font-size: 10px;
+    opacity: 1;
+    text-align: left;
+
+}
+.web #Home{
+    position: absolute;
+    left: 1100px;
+}
+.web #Place{
+    position: absolute;
+    left: 1200px;
+}
+.web #Food{
+    position: absolute;
+    left: 1300px;
+}
+.web #Hobbies{
+    position: absolute;
+    left: 1400px;
+}
+.web #Job{
+    position: absolute;
+    left: 1500px;
+}
+
+header #pic{
+    width: 200px;
+    height: 200px;
+    margin: 0;
+    position: relative;
+    bottom: -175px;
+    left: 50px;
+}
+.top {
+  width: 100%;
+  position: absolute;
+  top: 400px;
+  left: 31px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: light;
+  font-size: 50px;
+  text-align: left;
+}
+.top h1{
+    color: crimson;
+    font-size: 30px;
+    font-weight: lighter;
+}
+.first{
+    width: 100%;
+    height: fit-content;
+    gap: 10px;
+}
+.first img{
+    width: 300px;
+    height: 200px;
+}
+.second {
+    bottom: -325px;
+    width: 200w;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+}
+.second #par{
+    bottom: 100px;
+    position: absolute;
+    bottom: 10px;
+    cursor: pointer;
+}
+.places{
+    width: 100vw;
+    position: relative;
+    justify-content: space-around;
+    display: flex;
+    bottom: -325px;
+    left: 275px;
+}
+.hob{
+    width: 100%;
+    position: absolute;
+    top: -630px;
+    left: 550px;
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+header #music{
+    width: 60px;
+    height: 50px;
+    margin: 0;
+    position: relative;
+    bottom: 550px;
+    left: -800px;
+    border-radius: 50%;
+}
+header #mov{
+    width: 60px;
+    height: 50px;
+    margin: 0;
+    position: relative;
+    bottom: 475px;
+    left: -865px;
+    border-radius: 50%;
+}
+header #phone{
+    width: 60px;
+    height: 50px;
+    margin: 0;
+    position: relative;
+    bottom: 410px;
+    left: -920px;
+    border-radius: 50%;
+}
+header #cook{
+    width: 60px;
+    height: 50px;
+    margin: 0;
+    position: relative;
+    bottom: 340px;
+    left: -990px;
+    border-radius: 50%;
+}
+.list{
+    width: 246px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  bottom: 370px;
+  right: 1150px;
+  font-family: Inter;
+  font-weight: bold;
+  font-size: 12px;
+  text-align: left;
+}
+.food{
+    width: 100%;
+    position: absolute;
+    top: -620px;
+    left: 1200px;
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+header #choc{
+    width: 60px;
+    height: 50px;
+    margin: 0;
+    position: relative;
+    bottom: 560px;
+    left: -490px;
+    border-radius: 50%;
+}
+header #no{
+    width: 60px;
+    height: 50px;
+    margin: 0;
+    position: relative;
+    bottom: 485px;
+    left: -550px;
+    border-radius: 50%;
+}
+header #dat{
+    width: 60px;
+    height: 50px;
+    margin: 0;
+    position: relative;
+    bottom: 410px;
+    left: -620px;
+    border-radius: 50%;
+}
+header #veg{
+    width: 60px;
+    height: 50px;
+    margin: 0;
+    position: relative;
+    bottom: 350px;
+    left: -680px;
+    border-radius: 50%;
+}
+.seclist{
+    width: 246px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  bottom: 475px;
+  right: 200px;
+  font-family: Inter; 
+  font-weight: bold;
+  font-size: 12px;
+  text-align: left;
+}
